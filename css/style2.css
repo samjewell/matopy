@@ -1,0 +1,50 @@
+body{
+  background-color: #FFF;
+  color: #666;
+}
+
+.hero-unit {
+  background-color: inherit;
+  border: 2px solid #944794;
+  padding: 30px 60px;
+}
+.hero-unit p{
+  margin-top: 10px;
+  margin-bottom: 0px;
+  max-width: 580px;
+}
+
+.hero-unit h1{
+  margin: 3px 0px 20px 0px;
+  letter-spacing: inherit;
+  font-size: 26px;
+}
+
+.signup-suggest{
+  padding: 10px 0%;
+}
+
+.logo-and-tag{
+  text-align: right;
+  display: table;
+}
+
+.logo-and-tag img{
+  max-width: 567px;
+  width: 100%;
+}
+
+h1, h2{
+  font-weight: normal;
+  font-size: 26px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+h2{
+  color: #944794;
+}
+.fact-row{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
